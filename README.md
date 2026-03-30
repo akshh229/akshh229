@@ -118,7 +118,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/upi-qr.jpg.jpeg" width="220" alt="UPI QR to support Akki" />
+  <img src="assetsupi-qr.jpg.jpeg" width="220" alt="UPI QR to support Akki" />
 </p>
 
 <p align="center">
