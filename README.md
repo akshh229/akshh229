@@ -113,6 +113,8 @@
 
 <p align="center">
   <a href="upi://pay?pa=akki2206maa@okicici&pn=Akki&cu=INR">
+    <div align="center">
+  <br/>
         <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" />
     <img src="assetsupi-qr.jpg.jpeg" width="220" alt="UPI QR to support Akki" />
   </a>
