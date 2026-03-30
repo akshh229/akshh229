@@ -110,8 +110,11 @@
 
 ## ❤️ Support Me
 
+
 <p align="center">
-  <a href="https://www.buymeacoffee.com/akshh229">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/>
+  <a href="upi://pay?pa=akki2206maa@okicici&pn=Akki&cu=INR">
+    <img src="assets/upi-qr.png" width="220" alt="UPI QR to support Akki" />
   </a>
+  <br />
+  <sub>Scan or tap to pay via any UPI app</sub>
 </p>
