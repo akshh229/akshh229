@@ -113,7 +113,7 @@
 
 <p align="center">
   <a href="upi://pay?pa=akki2206maa@okicici&pn=Akki&cu=INR">
-    <img src="assets/upi-qr.png" width="220" alt="UPI QR to support Akki" />
+    <img src="assetsupi-qr.jpg.jpeg" width="220" alt="UPI QR to support Akki" />
   </a>
   <br />
   <sub>Scan or tap to pay via any UPI app</sub>
